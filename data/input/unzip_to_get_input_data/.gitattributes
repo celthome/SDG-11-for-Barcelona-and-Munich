@@ -1,2 +1,0 @@
-worldpopbarcelona.tif.zip filter=lfs diff=lfs merge=lfs -text
-worldpopmunich.tif.zip filter=lfs diff=lfs merge=lfs -text
