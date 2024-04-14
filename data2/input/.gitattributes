@@ -1,1 +1,2 @@
 barcelona.zip filter=lfs diff=lfs merge=lfs -text
+munich.zip filter=lfs diff=lfs merge=lfs -text
