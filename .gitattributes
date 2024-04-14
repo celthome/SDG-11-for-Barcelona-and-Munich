@@ -1,0 +1,2 @@
+data/input/unzip_to_get_input_data/barcelona.zip filter=lfs diff=lfs merge=lfs -text
+data/input/unzip_to_get_input_data.zip filter=lfs diff=lfs merge=lfs -text
